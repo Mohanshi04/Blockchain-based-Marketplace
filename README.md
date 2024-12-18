@@ -60,11 +60,16 @@ To use this project, follow these steps:
 
 ## Features
 Decentralized Marketplace: Buy and sell items using Ethereum.
+
 Smart Contracts: Secure and transparent transactions.
+
 MetaMask Integration: Easy wallet management and transaction signing.
+
 Accessibility : Accessible on various devices.
 
 ## Acknowledgements
 Truffle
+
 Ganache
+
 MetaMask
