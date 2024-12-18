@@ -23,13 +23,17 @@ Ensure you have the following software installed:
 - [MetaMask](https://metamask.io/)
 
 ### Clone the Repository
-
-$ git clone https://github.com/Mohanshi04/Blockchain-based-Marketplace.git
-$ cd marketplace
+```bash
+git clone https://github.com/Mohanshi04/Blockchain-based-Marketplace.git
+```
+```bash
+cd marketplace
+```
 
 ### Install Dependencies
-
-$ npm install
+```bash
+npm install
+```
 
 ### Configure the Blockchain
 - Open Ganache and start a new workspace.
@@ -37,10 +41,14 @@ $ npm install
 - Update truffle-config.js to match Ganache settings.
 
 ### Deploy Smart Contracts
-$ truffle migrate --reset
+```bash
+truffle migrate --reset
+```
 
 ### Start the Application
-$ npm start
+```bash
+npm start
+```
 
 ## Usage
 To use this project, follow these steps:
